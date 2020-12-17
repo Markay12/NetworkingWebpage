@@ -1,33 +1,33 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+title: Networking
+subtitle: Public and Private Systems
+email: ashinhust.brass@gmail.com  
+description: Learn the small complications of what runs our 21st century
+baseurl: https://www.network.markinfo.dev/ # the subpath of your site, e.g. /blog
+url: https://www.markinfo.dev/ # the base hostname & protocol for your site
+author: Mark Ashinhust  
+street_address: 1106 E. Weber Dr. 
+city: Tempe
+state: AZ
+zip_code: 85281
 country: United States of America
-phone: (716) 555-5555
+phone: (623) 523-2880
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 2
 
 # social settings
 500px_url:
-facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+facebook_url: 
+github_url: https://github.com/Markay12
+gitlab_url: https://gitlab.com/
+googleplus_url: 
+instagram_url: https://www.instagram.com/mark_ashin/
+linkedin_url: https://www.linkedin.com/in/mark-ashinhust-3aa5b9193/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # build settings
 markdown: kramdown
